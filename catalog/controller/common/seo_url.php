@@ -75,7 +75,7 @@ class ControllerCommonSeoUrl extends Controller
     public function rewrite($link)
     {
         $url_info = parse_url(str_replace('&amp;', '&', $link));
-var_dump($url_info);die;
+
         $url = '';
 
         $data = array();
