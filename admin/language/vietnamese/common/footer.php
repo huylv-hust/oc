@@ -1,1 +1,1 @@
-<?php// Text$_['text_footer'] = 'Cổng thương mại điện tử Online của công ty TNHH AN HẢI AN .<br />Manager: Le Van Huy - BrSE of SETA-International ( http://www.seta-international.co.jp/ )<br />Phone: 0984787652<br /> Skype: huylv.hedspi';$_['text_version'] 	= 'Phiên bản %s';
+<?php// Text$_['text_footer'] = 'Cửa hàng bán đồ xách tay số 1 vịnh bắc bộ.<br />Shop hang xach tay<br />Phone: 0123xxx<br /> Skype: abcxyz';$_['text_version'] 	= 'Phiên bản %s';
